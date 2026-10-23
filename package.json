@@ -14,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MaxGitHub0515/git-helper.git"
+    "url": "git+https://github.com/makspavlovskyi/git-helper.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MaxGitHub0515/git-helper/issues"
+    "url": "https://github.com/makspavlovskyi/git-helper/issues"
   },
-  "homepage": "https://github.com/MaxGitHub0515/git-helper#readme",
+  "homepage": "https://github.com/makspavlovskyi/git-helper#readme",
   "dependencies": {
     "colors": "^1.4.0",
     "commander": "^14.0.1",
